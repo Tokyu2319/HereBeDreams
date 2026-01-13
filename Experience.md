@@ -7,7 +7,7 @@ aliases:
   - experiencing
   - Experiencing
 ---
-> Experience is what the [[Beings|soul]] of a being gains from living through moments, doing things, or perceiving something over time. Everything a being goes through counts as experience. This includes direct encounters, knowledge gained, subjective perception, thoughts, and much more.
+> Experience is what the [[./Beings|soul]] of a being gains from living through moments, doing things, or perceiving something over time. Everything a being goes through counts as experience. This includes direct encounters, knowledge gained, subjective perception, thoughts, and much more.
 > 
 > The amount of experience in a soul determines its value.
 > 
