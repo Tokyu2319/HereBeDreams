@@ -19,10 +19,10 @@ aliases:
 	expiring (the speed of decay cannot be shorten), once it expires it either becomes a flash of light followed by radiant heat, heavy elements, or a momentary tugging force. Armana can prolong the lifespan of mana but we’ll get to that later.
 
 - # Mana Casting and Cost
-	Mana casting is the act of expending mana, wherein mana is released directly from a being’s [[Beings|vessel]]. Transforming mana into its other types is free. The intensity of mana determines the cost of its expenditure and it is exponential meaning a complex being cannot reliably cast high-level spells without risking loss of life due to complete mana exhaustion.
+	Mana casting is the act of expending mana, wherein mana is released directly from a being’s [[./Beings|vessel]]. Transforming mana into its other types is free. The intensity of mana determines the cost of its expenditure and it is exponential meaning a complex being cannot reliably cast high-level spells without risking loss of life due to complete mana exhaustion.
 
 - # Mana Exhaustion
-	Mana exhaustion is when a being depletes their mana until they begin to feel their three [[Beings|aspects]] disconnecting, basically — their walking on a fine line between life and death. How do I put this… for a normal being, this line is quite easy to see.
+	Mana exhaustion is when a being depletes their mana until they begin to feel their three [[./Beings|aspects]] disconnecting, basically — their walking on a fine line between life and death. How do I put this… for a normal being, this line is quite easy to see.
 	“Oh, I feel my life slipping away! I better conserve my mana.”
 	But for a higher being, this line seems almost invisible to the point where they have to be careful incase they straight up die practicing magic. Let’s make sense of that, When you’re rich you tend to blow your money wherever and that’s a problem, by the time you check your balance you’re already empty and the debt collector is Death itself.
 
@@ -46,14 +46,14 @@ aliases:
 
 	Manons can move anything microscopically or macroscopically and astronomical amounts of manons are capable of deforming space.
 - # Armana
-	A play on the words “mana” and “architecture”; armana particles are tangible forms of mana that can be rearranged to form complexities such as the mind (the aspect that has agency over mana), <u>making armana as a secondary tool for the use of magic</u>, this allows a technique of magic known as [[Magic|enchantments]].
+	A play on the words “mana” and “architecture”; armana particles are tangible forms of mana that can be rearranged to form complexities such as the mind (the aspect that has agency over mana), <u>making armana as a secondary tool for the use of magic</u>, this allows a technique of magic known as [[./Magic|enchantments]].
 	
 	Armana structures exist indefinitely and independently — but not by much, because it’s tangible, armana structures can be disrupted by physical and magical forces while also being costly to cast. It also resists said forces when designed so, these are called magical shields. When armana surrounds mana and its other types it can prolong their lifespan and allow the use of mana storage.
 
 	The common use of armana are creating magical shields, creating enchantments for easier spell casting, and mana storage.
 
 # Materialized Mana
-<u>Every matter is created from mana</u>. Matter is any substance that has mass and occupies space, the creation of matter requires an expensive amount of mana as matter is persistent unlike the mana triad. This expensive cost makes [[Magic|creation magic]] unknown (noone would willingly expend so much mana) and risky both for the vessel and soul.
+<u>Every matter is created from mana</u>. Matter is any substance that has mass and occupies space, the creation of matter requires an expensive amount of mana as matter is persistent unlike the mana triad. This expensive cost makes [[./Magic|creation magic]] unknown (noone would willingly expend so much mana) and risky both for the vessel and soul.
 
 Energy is first created when trying to create matter, if you continue to try to create matter with no control you will end up with a mess of elements (potentially dangerous due to some chemical reactions). Manons are needed to create stable and structural matter during the creation process (further making creation magic more expensive) with little to virtually no energy being created from that process.
 
