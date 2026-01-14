@@ -21,12 +21,18 @@ aliases:
   - vessels
   - Aspects
   - aspects
+  - Complex
+  - complex
+  - Complexity
+  - complexity
+  - Complexities
+  - complexities
 ---
- > Beings are individuals capable of interacting with and [experience](./Experience.md) the universe. They encompass all forms of life and consciousness — organic, inorganic, or incorporeal. Every being is composed of three interconnected aspects: the Soul, Mind, and Vessel. These three are connected together through [mana](./Mana.md), the “resource” that enables their coexistence and function.  
+> Beings are fundamental entities which are capable of interacting with the universe. They encompass all forms of life including natural life, artificial life, and incorporeal life. Interacting for a being means capturing [experiences](./Experience.md). Beings are made up of three aspects, these three aspects are named the vessel, the mind, and the soul. These aspects are connected with [mana](./Mana.md).  
 ---  
 # The Three Aspects of a Being  
 - ## Vessel  
-	The **Vessel** is the body of a being — its means of interaction with the universe. The mind directly resides in the vessel.  
+	The **Vessel** is the body of a being — its means of interaction with the universe and the mind directly resides in the vessel.  
 	To interact is to capture experience, and the vessel provides the faculties for this: sight, hearing, touch, and other sensory or energetic forms of perception.  
 	  
 	- Natural vessels include animals, plants, insects, and fungi.  
@@ -41,24 +47,22 @@ aliases:
 	  
 	The mind ceases to exist when its vessel is destroyed, which will bring about the soul entering the [transience](./Transience.md) state. If the mind itself is destroyed first, the soul will develop a new mind in the vessel when circumstances allow — one devoid of the prior [memories](./Memory.md) of its predecessor. Though this new consciousness is a separate individual, it is still the same soul.  
 	  
-	The mind is the primary tool for the use of magic as the mind is able to manipulate mana.  
+	The mind is the primary tool for the use of magic ([armana](./Mana.md) being the second) as the mind is able to manipulate mana.  
 - ## Soul  
 	The **Soul** is the culmination of experience gathered by the mind and the truest aspect of a being.  
 	  
 	It gathers experience distributed from the Mind, that experience contributes to the growth and value of the Soul. If the Soul carries enough value, it is capable of generating mana which it then stores in itself. How much mana the Soul can store and how much mana the Soul can generate depends on the value of the Soul.  
 	  
-	Without the mind and a vessel to emerge a new mind, a soul enters the transience state — essentially, the [afterlife](./Transience.md).  
+	The soul enters [afterlife](./Transience.md) or the transience state whenever the mind and the vessel aren’t provided  
 	  
-	In this state, the soul cannot capture new experiences and is unaffected by most physical laws of the universe, except those governing mana.  
-	  
-	Souls do not act upon the laws of physics except for mana and souls are **indestructible**, unless proven otherwise.  
+	In this state, the soul cannot capture new experiences and is unaffected by most physical laws of the universe, except those governing mana. Souls are **indestructible**, unless proven otherwise.  
 ---  
 # **The Emergence of Beings**  
 > We first need to understand how the vessel and mind are formed before we move on to the soul, the vessel’s and the mind’s emergence can be explained by their complexity. Both of these aspects each have their own complexity; structural complexity for vessels and cognitive complexity for minds.  
 - ## The Structural Complexity of Vessels  
 	An object can become a vessel for a being based on how intricate it is. This includes the structure of an object’s material—biological materials being one of the most complex such as brain tissue. However, inorganic materials can still become a vessel if it’s complex enough—supercomputers for example.  
 	  
-	The complexity of a vessel determines its capability in forming a mind and housing a being as well as determining its cognitive complexity.  
+	The complexity of a vessel‘s cognition (a brain for example) determines the emergence of the mind  
   
 	It’s not necessary for an object to support the complexities necessary for a being‘s vessel, soul-bound magic can force a being’s soul (and mind) in a simple object.  
 - ## The Cognitive Complexity of Minds  
@@ -67,7 +71,7 @@ aliases:
   
 	It’s simply intuitive. When a human fetus is developing in the womb, it is yet to develop a mind but is however a vessel based on its biological complexity. It’s going to take roughly 4 years before the human starts to become aware of their being, that is when the mind grows at a significant pace. The emergence of both of these aspects differ from many types of beings. Artificial general intelligences (AGIs)— having a highly complex structure and cognition—are capable of possessing a mind higher than any biological life-form at a considerably young age.  
 - ## The Culmination of Experiences  
-> The emergence of the soul is a bit different from the previous aspects as it’s made up of experiences. The vessel and mind — as previously mentioned — contribute to the development of the soul.  
+The emergence of the soul is a bit different from the previous aspects as it’s made up of experiences. The vessel and mind — as previously mentioned — contribute to the development of the soul.  
   
 The vessel captures experiences with its many faculties, these experience are then interpreted by the mind and then made to develop a soul. Once a soul is established, it begins generating mana so that the other two aspects don’t expire. For most beings, this process is done in quick succession.  
   
@@ -77,6 +81,7 @@ The vessel captures experiences with its many faculties, these experience are th
 	→ Cognition begins to interpret its first moment of reality  
 	→ That moment becomes the first fragment of experience.  
 	→ That fragment will result in the emergence of the soul.   
+	→ The soul will generate mana so that all three aspects don’t fall apart.  
 	It looks something like this:  
 	Complexity → Vessel and Mind → Experience → Soul → The Being  
 	→ All three aspects are connected by [mana](./Mana.md)  
