@@ -45,14 +45,14 @@ aliases:
   
 	Manon can move anything microscopically or macroscopically and astronomical amounts of manon are capable of deforming space.  
 - # Armana  
-	A play on the words “mana” and “architecture”; armana particles are tangible forms of mana that can be rearranged to form complexities such as the mind (the aspect that has agency over mana), <u>making armana as a secondary tool for the use of magic</u>, this allows a technique of magic known as [enchantments](./Mana%20Interaction.md).  
+	A play on the words “mana” and “architecture”; armana particles are tangible forms of mana that can be rearranged to form complexities such as the mind (the aspect that has agency over mana), <span style="text-decoration: underline;">making armana as a secondary tool for the use of magic</span>, this allows a technique of magic known as [enchantments](./Mana%20Interaction.md).  
 	  
 	Armana structures exist indefinitely and independently — but not by much, because it’s tangible, armana structures can be disrupted by physical and magical forces while also being costly to cast. It also resists said forces when designed so, these are called magical shields. When armana surrounds mana and its other types it can prolong their lifespan and allow the use of mana storage.  
   
 	The common use of armana are creating magical shields, creating enchantments for easier spell casting, and mana storage.  
   
 # Materialized Mana  
-<u>Every matter is created from mana</u>. Matter is any substance that has mass and occupies space, the creation of matter requires an expensive amount of mana as matter is persistent unlike the mana triad. This expensive cost makes [creation magic](./Mana%20Interaction.md) unknown (noone would willingly expend so much mana) and risky both for the vessel and soul.  
+<span style="text-decoration: underline;">Every matter is created from mana</span>. Matter is any substance that has mass and occupies space, the creation of matter requires an expensive amount of mana as matter is persistent unlike the mana triad. This expensive cost makes [creation magic](./Mana%20Interaction.md) unknown (noone would willingly expend so much mana) and risky both for the vessel and soul.  
   
 Energy is first created when trying to create matter, if you continue to try to create matter with no control you will end up with a mess of elements (potentially dangerous due to some chemical reactions). Manon are needed to create stable and structural matter during the creation process (further making creation magic more expensive) with little to virtually no energy being created from that process.  
   
